@@ -1,0 +1,3 @@
+Hệ thống phần mềm gồm 2 phần: Quản lý việc bán vé, in vé và Quản lý  thông tin trong CSDL
+•	Quản lí việc bán vé: Nhập thông tin vé hành khách yêu cầu (tên hành khách, số điện thoại, tên chuyến, giờ khởi hành), thanh toán và xuất vé cho hành khách
+•	Quản lí thông tin trong CSDL: Lưu trữ các thông tin vé -> đối chiếu với thông tin hành khách cung cấp để thanh toán và đưa vé chính xác cho hành khách. Lưu trữ thông tin các vé đã bán theo thời gian -> phục vụ cho việc xuất thống kê sau này.
